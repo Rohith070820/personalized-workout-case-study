@@ -23,7 +23,7 @@ The case study explores how a fitness tracking app can improve user retention an
 
 - `personalized-workout-case-study.pdf`: The full case study document with details on user research, proposed features, MVP planning, and rollout strategy.
 
-👉 [📄 Case Study: Increasing Engagement through Personalized Workout Plans]([./personalized-workout-case-study.pdf](https://github.com/Rohith070820/personalized-workout-case-study/blob/main/Case%20Study-%20Increasing%20Engagement%20through%20Personalized%20Workout%20Plans.pdf))
+👉 [📄 Case Study: Increasing Engagement through Personalized Workout Plans](https://github.com/Rohith070820/personalized-workout-case-study/blob/main/Case%20Study-%20Increasing%20Engagement%20through%20Personalized%20Workout%20Plans.pdf)
 
 ## 🚀 Outcome
 
